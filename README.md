@@ -21,11 +21,13 @@ This project is a simple calculator application developed using **Python** and t
 ## How to Run the Project
 
 1. Install Python 3 on your computer.
-2. Save the project file as 'calc_sample.py'.
+2. Save the project file as `calc_sample.py`.
 3. Open a terminal or command prompt.
 4. Run the following command:
 
+```bash
 python calc_sample.py
+```
 
 The calculator window will open, and you can start performing calculations.
 
